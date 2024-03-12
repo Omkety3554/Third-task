@@ -1,8 +1,8 @@
 # configured aws provider with proper credentials
 provider "aws" {
   region    = "us-west-1"
-  access_key   = "AKIATCKATQSF5XH65DXD"
-  secret_key   = "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"
+  access_key   = ""
+  secret_key   = ""
 }
 
 
